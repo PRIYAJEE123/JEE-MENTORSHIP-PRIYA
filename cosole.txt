@@ -1,1 +1,14 @@
-google-site-verification: google203a987b015dd83e.html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Priya JEE Mentorship</title>
+
+    <!-- Google verification tag -->
+    <meta name="google-site-verification" content="AbCDeFgHIjKlMnOPqR123..." />
+
+  </head>
+  <body>
+    <h1>Welcome to My Mentorship Website 🎉</h1>
+    <p>JEE students ke liye mentorship & courses available!</p>
+  </body>
+</html>
