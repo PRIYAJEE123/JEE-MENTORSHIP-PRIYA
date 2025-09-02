@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JEE Mentorship by Priya</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background: #f4f4f4;
+color: #333;
+text-align: center;
+}
+header {
+background: #4CAF50;
+color: white;
+padding: 20px;
+}
+section {
+padding: 20px;
+}
+.poster {
+margin: 20px 0;
+}
+.btn {
+display: inline-block;
+margin-top: 20px;
+padding: 12px 25px;
+background: #4CAF50;
+color: white;
+text-decoration: none;
+border-radius: 5px;
+font-size: 18px;
+}
+.btn:hover {
+background: #45a049;
+}
+footer {
+background: #333;
+color: white;
+padding: 10px;
+margin-top: 30px;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>JEE Mentorship by Priya</h1>
+<p>Personal guidance for cracking JEE with smart strategies</p>
+</header>
+
+<section>
+<h2>Why Join?</h2>
+<p>✔️ One-on-one mentorship<br>
+✔️ Study plan & strategy<br>
+✔️ Doubt clearing sessions<br>
+✔️ Motivation & support</p>
+
+<div class="poster">
+<img src="https://via.placeholder.com/600x300?text=JEE+Mentorship+Poster" alt="Poster">
+</div>
+
+<h2>Course Fee: ₹499</h2>
+<a class="btn" href="#">Pay & Join Now</a>
+</section>
+
+<footer>
+<p>© 2025 JEE Mentorship by Priya. All rights reserved.</p>
+</footer>
+</body>
+</html>
