@@ -1,21 +1,54 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Priya JEE Mentorship</title>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JEE Mentorship - Priya Sharma</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background: #f5f5f5;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #4CAF50;
+      color: white;
+      padding: 20px 0;
+    }
+    h1 {
+      margin: 0;
+    }
+    p {
+      font-size: 18px;
+      margin: 20px 0;
+    }
+    .container {
+      margin-top: 50px;
+    }
+    .razorpay-container {
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Mentorship Site</h1>
+  </header>
 
-    <!-- Google verification tag -->
-    <meta
-      name="google-site-verification"
-      content="wC2J6E-xqQujbF0NAPF-ZGNdLsSdssKbpqXvKVsOuF4"
-    />
-  </head>
-  <body>
-    <h1>Welcome to My Mentorship Website 🎉</h1>
-    <p>
-      Yeh mera JEE mentorship program hai.<br />
-      Aapko yaha guidance, mentorship aur courses milenge! 🚀
-    </p>
-  </body>
+  <div class="container">
+    <p>Book your <b>JEE Mentorship Session</b> now!</p>
+
+    <div class="razorpay-container">
+      <form action="https://pages.razorpay.com/pl_XXXXXXXXX" method="POST">
+        <script
+          src="https://checkout.razorpay.com/v1/payment-button.js"
+          data-payment_button_id="pl_XXXXXXXXX"
+          async
+        ></script>
+      </form>
+    </div>
+  </div>
+</body>
 </html>
